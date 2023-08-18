@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Service Test</string>
+    <string name="enable">Enable</string>
+    <string name="last_measured">Last measured:</string>
+    <string name="heart_data">Your heart rate:</string>
+    <string name="label_enable">Enable permission for tracking your health data</string>
+    <string name="not_available">Not available on this device</string>
+</resources>
