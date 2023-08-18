@@ -1,4 +1,4 @@
-# Passive Data Sample
+# Health Data Sample
 
 This sample demonstrates receiving passive data updates in the background using the
 `PassiveMonitoringClient` API.
